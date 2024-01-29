@@ -2,7 +2,8 @@
 This is a git file 
 <br>
 source code management
-aditor - gitbash
+<br>
+editor - gitbash
 
 
 
